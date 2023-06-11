@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "src", "src\src.csproj", "{607ED72B-34D7-4172-9520-4EE132C79E96}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "odinTestTask", "odinTestTask\odinTestTask.csproj", "{607ED72B-34D7-4172-9520-4EE132C79E96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

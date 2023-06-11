@@ -17,7 +17,7 @@ public class MainViewModel : NotifyPropertyChanged
         set
         {
             _input = value;
-            OnPropertyChanged(nameof(Input));
+            OnPropertyChanged();
         }
     }
 
@@ -27,7 +27,7 @@ public class MainViewModel : NotifyPropertyChanged
         set
         {
             _output = value;
-            OnPropertyChanged(nameof(Output));
+            OnPropertyChanged();
         }
     }
     

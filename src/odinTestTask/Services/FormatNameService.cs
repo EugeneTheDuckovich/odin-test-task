@@ -14,11 +14,19 @@ public class FormatNameService : IFormatNameService
         {
             "von",
             "vom",
+            "van",
             "de",
             "der",
             "dem",
+            "den",
             "zu",
             "und",
+            "la",
+            "lo",
+            "du",
+            "da",
+            "di",
+            "della",
         };
     }
     
